@@ -1,0 +1,692 @@
+{
+  "_warning": "EVERYTHING IN THIS FILE IS INVENTED PLACEHOLDER CONTENT. The company, people, projects, reviews, prices, phone numbers, email and address are not real. See README.md before publishing anything from this site.",
+  "site": {
+    "name": "MERANTI",
+    "legalName": "Meranti Works Sdn Bhd",
+    "tagline": "Built to stand, built to last",
+    "meaning": "Meranti is the hardwood Malaysian builders have framed, trussed and shuttered with for generations.",
+    "url": "https://example.com",
+    "phone": "+60 3-7725 4800",
+    "phoneHref": "+60377254800",
+    "phoneDisplay": "03-7725 4800",
+    "whatsapp": "+60 12-388 4800",
+    "email": "hello@merantiworks.com.my",
+    "addressLines": [
+      "B-3-12, Blok Bistari, Jalan PJU 1/42A",
+      "Dataran Prima, 47301 Petaling Jaya",
+      "Selangor, Malaysia"
+    ],
+    "hours": [
+      {
+        "d": "Monday – Friday",
+        "t": "8:30am – 6:00pm"
+      },
+      {
+        "d": "Saturday",
+        "t": "9:00am – 1:00pm"
+      },
+      {
+        "d": "Sunday",
+        "t": "Site visits by appointment"
+      }
+    ],
+    "cidb": "CIDB Grade G7 (placeholder)",
+    "rating": "4.9",
+    "ratingLabel": "4.9 RATED BY HOMEOWNERS",
+    "social": [
+      {
+        "k": "fb",
+        "label": "Facebook",
+        "href": "#"
+      },
+      {
+        "k": "ig",
+        "label": "Instagram",
+        "href": "#"
+      },
+      {
+        "k": "wa",
+        "label": "WhatsApp",
+        "href": "#"
+      }
+    ]
+  },
+  "nav": [
+    {
+      "label": "Home",
+      "href": "index.html"
+    },
+    {
+      "label": "About Us",
+      "href": "about.html"
+    },
+    {
+      "label": "Services",
+      "href": "services.html",
+      "menu": "services"
+    },
+    {
+      "label": "Projects",
+      "href": "projects.html"
+    },
+    {
+      "label": "Locations",
+      "href": "locations.html"
+    },
+    {
+      "label": "Blog",
+      "href": "blog.html"
+    },
+    {
+      "label": "More Pages",
+      "href": "#",
+      "menu": "more"
+    }
+  ],
+  "morePages": [
+    {
+      "label": "Contact",
+      "href": "contact.html"
+    },
+    {
+      "label": "Service detail",
+      "href": "services/main-contracting.html"
+    },
+    {
+      "label": "Project detail",
+      "href": "projects/bukit-jelutong-cluster-homes.html"
+    },
+    {
+      "label": "Location detail",
+      "href": "locations/petaling-jaya.html"
+    },
+    {
+      "label": "Blog detail",
+      "href": "blog/renovate-or-rebuild-older-terrace-house.html"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "privacy.html"
+    },
+    {
+      "label": "Terms & Conditions",
+      "href": "terms.html"
+    }
+  ],
+  "home": {
+    "title": "MERANTI | Contractor & Renovation Specialists in the Klang Valley",
+    "description": "Meranti Works Sdn Bhd — main contracting, residential and commercial builds, renovation, piling and roofing across Kuala Lumpur, Petaling Jaya, Shah Alam, Subang Jaya and Klang.",
+    "heroTitle": "We Build Things That Outlast the Monsoon",
+    "heroTrust": [
+      "CIDB G7 registered",
+      "Free site assessment",
+      "12-month workmanship warranty"
+    ],
+    "floatCard": {
+      "title": "A small leak today is a ceiling replacement next year.",
+      "cta": "See our services",
+      "href": "services.html"
+    },
+    "servicesLabel": "Services",
+    "servicesTitle": "Construction Work Built for a Tropical Climate",
+    "servicesIntro": "From single-storey extensions to full commercial fit-outs, we build, renovate and waterproof across the Klang Valley.",
+    "aboutLabel": "About Us",
+    "aboutScrub": "At Meranti Works we build and renovate for homeowners, business owners, property managers and developers across the Klang Valley. Our crews combine proper drainage detailing, honest material specs and tight supervision to produce buildings that hold up to Malaysian heat, humidity and rain.",
+    "aboutCardTitle": "A Klang Valley Contractor That Picks Up the Phone",
+    "aboutCardBody": "We are a mid-sized main contractor based in Petaling Jaya. Every project gets a named site supervisor, a written schedule and a photo update each week, so you always know what happened on site.",
+    "aboutCta": "More about us",
+    "whyLabel": "Why Us",
+    "whyTitle": "Why Property Owners Pick Meranti",
+    "whyMediaTitle": "Trusted by homeowners, property managers and developers",
+    "whyChips": [
+      "Setia Alam",
+      "Damansara",
+      "Bangsar South"
+    ],
+    "whyRatingLabel": "Average rating",
+    "whyAvatarsMore": "1.2K+",
+    "whyQuote": "Three monsoon seasons in, zero <em>callbacks</em> for leaks.",
+    "whyCoveredTitle": "Fully covered",
+    "whyCoveredBody": "CIDB-registered, fully insured, with a 12-month workmanship warranty on every completed job.",
+    "whyStat": 480,
+    "whyStatSuffix": "+",
+    "whyStatLabel": "Projects completed across the Klang Valley since 2009.",
+    "processLabel": "Process",
+    "processTitle": "A Simple, Proven Build Process",
+    "processIntro": "Four steps, a written quote before anything starts, and no surprise variation orders halfway through.",
+    "projectsLabel": "Projects",
+    "projectsTitle": "Recent Work Across the Klang Valley",
+    "projectsIntro": "Drag the handle on any photo to see the before and after.",
+    "reviewsTitle": "What Our Customers Say",
+    "reviewsIntro": "Homeowners and business owners on what it was actually like working with our crews.",
+    "areasLabel": "Areas We Serve",
+    "areasTitle": "Where We Work",
+    "areasIntro": "We cover the Klang Valley and take selected jobs in Negeri Sembilan and Seremban.",
+    "areasCta": "View all locations",
+    "blogsLabel": "Blog",
+    "blogsTitle": "Practical Advice for Malaysian Property Owners",
+    "blogsIntro": "Costs, maintenance and the things contractors wish owners knew before the quote.",
+    "blogsCta": "All articles",
+    "faqTitle": "Common Questions, Answered",
+    "faqIntro": "If yours is not here, call us on 03-7725 4800 and ask.",
+    "ctaLabel": "Get in touch",
+    "ctaTitle": "Tell Us What You Want Built",
+    "ctaIntro": "Send over the details and we will come out, measure up and give you a written quote. No charge, no obligation."
+  },
+  "services": [
+    {
+      "slug": "main-contracting",
+      "name": "Main Contracting",
+      "short": "End-to-end build management",
+      "icon": "helmet",
+      "img": "svc-main-contracting",
+      "body": "Offices, retail and warehouses",
+      "excerpt": "We take the whole job — drawings, submissions, trades, programme and handover — so you deal with one contractor instead of nine.",
+      "heroTitle": "Main Contracting",
+      "intro": "One contract, one programme, one point of contact. We hold the trades, the schedule and the quality on site so you are not chasing six separate subcontractors.",
+      "includes": [
+        "Drawing review and buildability check before pricing",
+        "Local authority submission support (MBPJ, MBSA, DBKL)",
+        "Trade procurement and supervision",
+        "Weekly photo and progress reporting",
+        "Defect list and 12-month workmanship warranty"
+      ],
+      "price": "From RM 180 per sq ft",
+      "duration": "8 – 20 weeks typical",
+      "bodyImg": "svc-body-1"
+    },
+    {
+      "slug": "residential-construction",
+      "name": "Residential Builds",
+      "short": "New homes and additions",
+      "icon": "home",
+      "img": "svc-residential",
+      "body": "New builds, extensions and rebuilds",
+      "excerpt": "Semi-Ds, bungalows, terrace rebuilds and double-storey extensions, built to survive forty years of Malaysian weather.",
+      "heroTitle": "Residential Builds",
+      "intro": "Whether you are adding a room at the back or taking a tired terrace down to the frame, the detailing that matters here is drainage, roof falls and wall waterproofing.",
+      "includes": [
+        "Single and double-storey extensions",
+        "Full terrace and semi-D rebuilds",
+        "Kitchen and wet-area reconstruction",
+        "Structural beam and column works",
+        "Reinstatement after approval"
+      ],
+      "price": "From RM 165 per sq ft",
+      "duration": "6 – 16 weeks typical",
+      "bodyImg": "svc-body-2"
+    },
+    {
+      "slug": "commercial-construction",
+      "name": "Commercial & Fit-Out",
+      "short": "Shops, offices, warehouses",
+      "icon": "building",
+      "img": "svc-commercial",
+      "body": "Retail, F&B and office fit-out",
+      "excerpt": "Shoplots, cafes, clinics and small warehouses, turned around fast enough that you are not paying rent on an empty unit.",
+      "heroTitle": "Commercial & Fit-Out",
+      "intro": "Commercial work lives or dies on programme. We sequence M&E, ceiling and finishes so your fit-out hands over on the date we quoted, not three weeks after it.",
+      "includes": [
+        "Shoplot and mall-unit fit-out",
+        "F&B kitchens, grease traps and exhaust",
+        "Office partitions, ceilings and carpentry",
+        "Shopfront glazing and signage coordination",
+        "Out-of-hours works where the centre requires it"
+      ],
+      "price": "From RM 120 per sq ft",
+      "duration": "4 – 12 weeks typical",
+      "bodyImg": "svc-body-5"
+    },
+    {
+      "slug": "renovation-remodelling",
+      "name": "Renovation & Extension",
+      "short": "Reworking what you have",
+      "icon": "tools",
+      "img": "svc-renovation",
+      "body": "Kitchens, baths and whole-home",
+      "excerpt": "Opening up a kitchen, adding a wet kitchen, converting the car porch — the work that needs a structural eye, not just a handyman.",
+      "heroTitle": "Renovation & Extension",
+      "intro": "Most Klang Valley houses were built fast. Renovating one properly means checking what the original builder did before you load anything onto it.",
+      "includes": [
+        "Structural assessment before demolition",
+        "Wet and dry kitchen reconfiguration",
+        "Bathroom strip-out and re-waterproofing",
+        "Car porch and rear extension",
+        "Electrical and plumbing re-routing"
+      ],
+      "price": "From RM 45,000 per room set",
+      "duration": "3 – 10 weeks typical",
+      "bodyImg": "svc-body-2"
+    },
+    {
+      "slug": "piling-foundations",
+      "name": "Piling & Foundations",
+      "short": "Below the ground line",
+      "icon": "layers",
+      "img": "svc-piling",
+      "body": "Slabs, footings and underpinning",
+      "excerpt": "Pad footings, ground beams, slabs and underpinning for settlement, on the soft ground a lot of the Klang Valley sits on.",
+      "heroTitle": "Piling & Foundations",
+      "intro": "A lot of Klang Valley ground is reclaimed or ex-mining land. Foundation work here is not a formality, and the cheapest quote is rarely the one that holds.",
+      "includes": [
+        "Soil investigation coordination",
+        "Pad footings and ground beams",
+        "Reinforced slabs and aprons",
+        "Underpinning for settled structures",
+        "Crack monitoring and remedial works"
+      ],
+      "price": "From RM 28,000 per footing set",
+      "duration": "2 – 8 weeks typical",
+      "bodyImg": "svc-body-4"
+    },
+    {
+      "slug": "roofing-waterproofing",
+      "name": "Roofing & Waterproofing",
+      "short": "Keeping the rain outside",
+      "icon": "roof",
+      "img": "svc-roofing",
+      "body": "Roofs, gutters and envelopes",
+      "excerpt": "Re-roofing, flashing, gutter falls and membrane work — the single most common thing we get called out to fix in this country.",
+      "heroTitle": "Roofing & Waterproofing",
+      "intro": "Nearly every leak we are called to is a detail problem, not a material problem: a flashing lapped the wrong way, a gutter running the wrong direction, a membrane that was never turned up at the kerb.",
+      "includes": [
+        "Full re-roofing, tile and metal deck",
+        "Flashing, valley and ridge detailing",
+        "Gutter and downpipe re-falls",
+        "Flat roof and balcony membrane",
+        "Leak tracing and targeted repair"
+      ],
+      "price": "From RM 22 per sq ft",
+      "duration": "1 – 5 weeks typical",
+      "bodyImg": "svc-body-6"
+    }
+  ],
+  "process": [
+    {
+      "icon": "phone",
+      "title": "Request your free quote",
+      "body": "Call, WhatsApp or send the form. We will ask what you want done, what your budget looks like, and when you need it finished.",
+      "img": "process-1"
+    },
+    {
+      "icon": "clipboard",
+      "title": "Site assessment and plan",
+      "body": "We come out, measure up, check the structure and drainage, and go back with a written quote that breaks down materials and labour.",
+      "img": "process-2"
+    },
+    {
+      "icon": "hammer",
+      "title": "Build and supervision",
+      "body": "A named site supervisor runs the job. You get a weekly photo update and a call if anything on the programme changes.",
+      "img": "process-3"
+    },
+    {
+      "icon": "check",
+      "title": "Handover and warranty",
+      "body": "We walk the job with you, clear the defect list, hand over the as-built details, and back the workmanship for 12 months.",
+      "img": "process-4"
+    }
+  ],
+  "projects": [
+    {
+      "slug": "bukit-jelutong-cluster-homes",
+      "name": "Bukit Jelutong Cluster Homes",
+      "location": "Shah Alam, Selangor",
+      "date": "18 March 2026",
+      "type": "Residential — new build",
+      "value": "RM 4.2 million",
+      "duration": "34 weeks",
+      "excerpt": "Twelve cluster units taken from pad footings to handover, with the drainage and roof falls detailed before a single wall went up.",
+      "before": "proj-1-before",
+      "after": "proj-1-after",
+      "body": "A twelve-unit cluster scheme on soft ground near Bukit Jelutong. The site investigation came back poor enough that we revised the footing layout before pricing, which added three weeks at the start and saved an argument about settlement later. Roof falls, gutter sizing and the surface drainage were all set out at foundation stage rather than retrofitted.\n\nAll twelve units handed over inside the contract period with a short defect list, mostly paint and ironmongery."
+    },
+    {
+      "slug": "sunway-mentari-retail-fit-out",
+      "name": "Sunway Mentari Retail Fit-Out",
+      "location": "Petaling Jaya, Selangor",
+      "date": "27 January 2026",
+      "type": "Commercial — fit-out",
+      "value": "RM 680,000",
+      "duration": "9 weeks",
+      "excerpt": "A ground-floor retail unit stripped back and fitted out to the tenant's brand standard, working nights to keep the centre trading.",
+      "before": "proj-2-before",
+      "after": "proj-2-after",
+      "body": "The unit had been empty for a year and the previous tenant's M&E was unusable. We stripped it back to the shell, re-ran electrical and air-conditioning, and built the shopfront, ceiling and joinery to the tenant's brand pack.\n\nCentre management only allowed noisy works between 10pm and 6am, so the programme was built around night shifts. The unit handed over two days early and opened on the planned date."
+    },
+    {
+      "slug": "taman-melawati-shophouse-restoration",
+      "name": "Taman Melawati Shophouse Restoration",
+      "location": "Kuala Lumpur",
+      "date": "9 November 2025",
+      "type": "Commercial — restoration",
+      "value": "RM 1.1 million",
+      "duration": "22 weeks",
+      "excerpt": "A row of four tired shophouses re-roofed, re-rendered and repainted, keeping the original facade details intact.",
+      "before": "proj-3-before",
+      "after": "proj-3-after",
+      "body": "Four adjoining shophouses with failed roofs, spalling render and thirty years of ad-hoc signage. The brief was to make them watertight and presentable without flattening the original facade detail.\n\nWe re-roofed all four, cut out and replaced the spalled render, re-formed the gutters at a proper fall, and repainted to a palette the owner picked from the original scheme. The timber shutters were repaired rather than replaced where they were sound."
+    },
+    {
+      "slug": "puchong-prima-double-storey-extension",
+      "name": "Puchong Prima Double-Storey Extension",
+      "location": "Puchong, Selangor",
+      "date": "14 September 2025",
+      "type": "Residential — extension",
+      "value": "RM 265,000",
+      "duration": "14 weeks",
+      "excerpt": "A rear double-storey extension on a standard terrace, with new beams, a re-laid slab and a re-worked wet kitchen.",
+      "before": "proj-4-before",
+      "after": "proj-4-after",
+      "body": "A straightforward rear extension on a 20x70 terrace, made less straightforward by the original builder's rear beam, which was not sized for what the owner wanted to put on it.\n\nWe replaced the beam, poured a new slab, extended both floors, and reworked the wet kitchen and rear drainage at the same time. The family stayed in the house throughout, so the works were sequenced to keep one bathroom and the dry kitchen live."
+    }
+  ],
+  "locations": [
+    {
+      "slug": "kuala-lumpur",
+      "name": "Kuala Lumpur",
+      "state": "Federal Territory",
+      "img": "loc-kuala-lumpur",
+      "blurb": "Terrace rebuilds, shophouse restoration and commercial fit-out across the city, from Melawati to Bangsar.",
+      "areas": [
+        "Melawati",
+        "Setapak",
+        "Cheras",
+        "Bangsar",
+        "Mont Kiara",
+        "Sri Hartamas"
+      ],
+      "labelPos": "e"
+    },
+    {
+      "slug": "petaling-jaya",
+      "name": "Petaling Jaya",
+      "state": "Selangor",
+      "img": "loc-petaling-jaya",
+      "blurb": "Our home base. Most of our residential extension and renovation work happens within fifteen minutes of the office.",
+      "areas": [
+        "Dataran Prima",
+        "Damansara Jaya",
+        "SS2",
+        "Kota Damansara",
+        "Tropicana",
+        "Bandar Utama"
+      ],
+      "labelPos": "n"
+    },
+    {
+      "slug": "shah-alam",
+      "name": "Shah Alam",
+      "state": "Selangor",
+      "img": "loc-shah-alam",
+      "blurb": "New-build cluster and semi-D work, plus warehouse and light industrial fit-out around the Section 13 belt.",
+      "areas": [
+        "Bukit Jelutong",
+        "Setia Alam",
+        "Section 7",
+        "Section 13",
+        "Alam Impian",
+        "Denai Alam"
+      ],
+      "labelPos": "sw"
+    },
+    {
+      "slug": "subang-jaya",
+      "name": "Subang Jaya",
+      "state": "Selangor",
+      "img": "loc-subang-jaya",
+      "blurb": "Renovation, re-roofing and waterproofing on the older housing stock around USJ and Subang proper.",
+      "areas": [
+        "USJ",
+        "SS15",
+        "Puchong Prima",
+        "Bandar Sunway",
+        "Putra Heights",
+        "Bukit Puchong"
+      ],
+      "labelPos": "se"
+    },
+    {
+      "slug": "klang",
+      "name": "Klang",
+      "state": "Selangor",
+      "img": "loc-klang",
+      "blurb": "Shophouse restoration, roofing and commercial work through Klang town and out toward Port Klang.",
+      "areas": [
+        "Klang town",
+        "Bandar Botanic",
+        "Bukit Tinggi",
+        "Meru",
+        "Port Klang",
+        "Kapar"
+      ],
+      "labelPos": "nw"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Nurul Aisyah Rahim",
+      "where": "Kota Damansara",
+      "avatar": "av-5",
+      "text": "They quoted the extension in writing, broke down materials and labour, and the final bill matched it. After three contractors who would not put a number on paper, that alone was worth it."
+    },
+    {
+      "name": "Tan Wei Ming",
+      "where": "Puchong",
+      "avatar": "av-3",
+      "text": "Our kitchen had leaked into the neighbour's unit twice. Meranti traced it to the balcony membrane instead of just re-tiling. Two monsoons later, still dry."
+    },
+    {
+      "name": "Rajesh Kumaran",
+      "where": "Klang",
+      "avatar": "av-6",
+      "text": "Re-roofed all four of our shophouses while the tenants kept trading. The site supervisor sent photos every Friday and actually answered his phone."
+    },
+    {
+      "name": "Siti Khadijah Omar",
+      "where": "Shah Alam",
+      "avatar": "av-4",
+      "text": "Clean site every evening, no sand in the drain, no complaints from the neighbours. They finished a week early and the defect list was four items."
+    },
+    {
+      "name": "Lim Chee Keong",
+      "where": "Subang Jaya",
+      "avatar": "av-1",
+      "text": "They told us the beam the previous builder put in was undersized before they priced the job, not after. Cost more, but it was the right call."
+    },
+    {
+      "name": "Arvind Nair",
+      "where": "Cheras",
+      "avatar": "av-2",
+      "text": "Fit-out handed over on the date they committed to. We opened on schedule, which almost never happens with a shoplot."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How soon can you start?",
+      "a": "Most jobs start within two to three weeks of you accepting the quote. We will tell you honestly at quoting stage if our crews are committed further out than that — we would rather lose the job than hold a slot we cannot keep."
+    },
+    {
+      "q": "Do you charge for a quote?",
+      "a": "No. The site visit, measure-up and written quote are free anywhere in the Klang Valley. If the job needs a structural engineer's input before we can price it, we will say so and tell you what that costs before anything is commissioned."
+    },
+    {
+      "q": "What does a renovation actually cost in 2026?",
+      "a": "As a rough guide: a bathroom strip-out and rebuild runs RM 18,000 to RM 35,000, a wet and dry kitchen reconfiguration RM 45,000 to RM 90,000, and a rear double-storey extension RM 160,000 upward depending on span and finishes. Your written quote will be specific; these are starting points, not a price list."
+    },
+    {
+      "q": "Do you handle the local authority submission?",
+      "a": "For works that need it, yes — we prepare the drawings and support the submission to MBPJ, MBSA, DBKL or MPK. Approval timelines are the council's, not ours, so we build that waiting period into the programme rather than pretending it does not exist."
+    },
+    {
+      "q": "Will the monsoon delay my job?",
+      "a": "External works slow down between October and March. We programme roofing, external render and drainage outside the worst of it where we can, and we tell you up front which parts of your job are weather-dependent."
+    },
+    {
+      "q": "What warranty do I get?",
+      "a": "Twelve months on workmanship from the handover date, plus whatever the manufacturer gives on materials — typically ten to fifteen years on membranes and roof sheets. Call us during the warranty period and we come back out."
+    }
+  ],
+  "blog": [
+    {
+      "slug": "renovate-or-rebuild-older-terrace-house",
+      "title": "Renovate or Rebuild? How to Decide on an Older Terrace House",
+      "cat": "Guide",
+      "date": "12 May 2026",
+      "author": "Faizal Rahman",
+      "img": "blog-1",
+      "excerpt": "Past a certain point, patching an old terrace costs more than taking it down to the frame. Here is where that line usually sits."
+    },
+    {
+      "slug": "double-storey-extension-cost-2026",
+      "title": "How Much Does a Double-Storey Extension Cost in 2026?",
+      "cat": "Costs",
+      "date": "24 April 2026",
+      "author": "Lim Siew Fong",
+      "img": "blog-2",
+      "excerpt": "A real breakdown in ringgit: structure, slab, roof, finishes and the line items most quotes leave out."
+    },
+    {
+      "slug": "warning-signs-your-building-needs-repair",
+      "title": "5 Warning Signs Your Building Needs Urgent Repair",
+      "cat": "Maintenance",
+      "date": "2 April 2026",
+      "author": "Faizal Rahman",
+      "img": "blog-3",
+      "excerpt": "Diagonal cracks, a sagging ridge, rust staining below a slab — what each one usually means and how long you have."
+    },
+    {
+      "slug": "waterproofing-guide-malaysian-monsoon",
+      "title": "The Complete Guide to Waterproofing for the Malaysian Monsoon",
+      "cat": "Guide",
+      "date": "15 March 2026",
+      "author": "Arun Selvam",
+      "img": "blog-4",
+      "excerpt": "Membranes, falls, upturns and the flashing detail that causes most of the leaks we are called out to."
+    },
+    {
+      "slug": "commercial-maintenance-checklist",
+      "title": "A Commercial Property Maintenance Checklist for Building Managers",
+      "cat": "Commercial",
+      "date": "28 February 2026",
+      "author": "Lim Siew Fong",
+      "img": "blog-5",
+      "excerpt": "Monthly, quarterly and annual checks for a Klang Valley commercial building, in the order they actually matter."
+    },
+    {
+      "slug": "building-a-home-that-lasts-50-years",
+      "title": "How to Build a Home That Lasts 50 Years in a Tropical Climate",
+      "cat": "Guide",
+      "date": "19 January 2026",
+      "author": "Faizal Rahman",
+      "img": "blog-6",
+      "excerpt": "Heat, humidity and 2,400mm of annual rainfall change what counts as good detailing. Six decisions that matter."
+    },
+    {
+      "slug": "why-drainage-matters-more-in-malaysia",
+      "title": "Why Drainage Matters More Here Than Almost Anywhere",
+      "cat": "Guide",
+      "date": "8 December 2025",
+      "author": "Arun Selvam",
+      "img": "blog-7",
+      "excerpt": "Perimeter drains, gutter sizing and ground falls — the cheapest part of a build and the one most likely to be skimped."
+    },
+    {
+      "slug": "foundation-cracks-diy-or-contractor",
+      "title": "Foundation Cracks 101: DIY or Call a Contractor?",
+      "cat": "Maintenance",
+      "date": "21 November 2025",
+      "author": "Faizal Rahman",
+      "img": "blog-8",
+      "excerpt": "Hairline shrinkage versus structural movement, and the simple test that tells you which one you are looking at."
+    }
+  ],
+  "team": [
+    {
+      "name": "Faizal Rahman",
+      "role": "Managing Director",
+      "img": "team-1",
+      "bio": "Twenty-two years on Klang Valley sites, the last fourteen running his own crews."
+    },
+    {
+      "name": "Lim Siew Fong",
+      "role": "Project Manager",
+      "img": "team-2",
+      "bio": "Runs the commercial side. Has never missed a mall handover date, which she will tell you about."
+    },
+    {
+      "name": "Nadia Ismail",
+      "role": "Site Safety Officer",
+      "img": "team-3",
+      "bio": "Keeps the sites compliant, the scaffolding tagged and the toolbox talks actually happening."
+    },
+    {
+      "name": "Arun Selvam",
+      "role": "Technical Lead",
+      "img": "team-4",
+      "bio": "Detailing and waterproofing. Will redraw your flashing before he will price it."
+    }
+  ],
+  "about": {
+    "title": "About Meranti Works",
+    "heroTitle": "A Contractor Built Around Finishing Properly",
+    "intro": "Meranti Works Sdn Bhd has been building, renovating and waterproofing across the Klang Valley since 2009. We are big enough to hold a programme and small enough that the person who quoted your job is the person who walks it with you at handover.",
+    "missionTitle": "What We Are Trying to Do",
+    "missionBody": "Malaysian construction has a reputation problem, and most of it is earned: verbal quotes, moving prices, crews that disappear for a fortnight. We run the opposite way — written scope, fixed price, named supervisor, weekly updates, and a warranty we honour without an argument.",
+    "stats": [
+      {
+        "n": 480,
+        "suffix": "+",
+        "label": "Projects completed"
+      },
+      {
+        "n": 17,
+        "suffix": " yrs",
+        "label": "Building in the Klang Valley"
+      },
+      {
+        "n": 62,
+        "suffix": "",
+        "label": "People on the books"
+      },
+      {
+        "n": 96,
+        "suffix": "%",
+        "label": "Handed over on or before date"
+      }
+    ],
+    "valuesTitle": "How We Work",
+    "values": [
+      {
+        "t": "Price it properly or walk away",
+        "b": "If we cannot do the job well at a price you will accept, we say so at quoting stage instead of cutting corners later."
+      },
+      {
+        "t": "One supervisor, start to finish",
+        "b": "The same person runs your site from setting-out to handover. You get their mobile number."
+      },
+      {
+        "t": "Details before finishes",
+        "b": "Drainage, falls and flashing get designed before anyone picks a tile. Everything else is cosmetic."
+      },
+      {
+        "t": "Leave the site clean",
+        "b": "Swept every evening, skips emptied, drains kept clear. Your neighbours should not know we are there."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Meranti Works",
+    "heroTitle": "Tell Us About the Job",
+    "intro": "Call, WhatsApp, or send the form and we will come out to measure up. Quotes are free anywhere in the Klang Valley.",
+    "formServices": [
+      "Main Contracting",
+      "Residential Builds",
+      "Commercial & Fit-Out",
+      "Renovation & Extension",
+      "Piling & Foundations",
+      "Roofing & Waterproofing",
+      "Not sure yet"
+    ]
+  }
+}

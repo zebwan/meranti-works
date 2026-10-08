@@ -1,0 +1,396 @@
+{
+  "_note": "Slot -> Pexels photo id. All photos are from pexels.com (free to use, no attribution required). Mock site; see README.",
+  "_widths": {
+    "xl": 2400,
+    "lg": 1600,
+    "md": 1100,
+    "sm": 760,
+    "av": 400
+  },
+  "_aspects": {
+    "wide": 1.7778,
+    "card": 1.3333,
+    "pair": 1.3333,
+    "tall": 1.0,
+    "square": 1.0,
+    "story": 0.75
+  },
+  "hero-home": {
+    "id": 190417,
+    "w": "xl",
+    "alt": "Construction cranes working below the Kuala Lumpur skyline",
+    "ar": "wide"
+  },
+  "hero-card-thumb": {
+    "id": 36884223,
+    "w": "sm",
+    "alt": "Roofer carrying battens across a roof",
+    "ar": "card"
+  },
+  "mega-quote": {
+    "id": 13066243,
+    "w": "md",
+    "alt": "Kuala Lumpur skyline at dusk",
+    "ar": "card"
+  },
+  "svc-main-contracting": {
+    "id": 12314551,
+    "w": "md",
+    "alt": "Reinforced concrete frame going up with workers on the deck",
+    "ar": "card"
+  },
+  "svc-residential": {
+    "id": 39151691,
+    "w": "md",
+    "alt": "Two-storey house part way through construction",
+    "ar": "card"
+  },
+  "svc-commercial": {
+    "id": 23978113,
+    "w": "md",
+    "alt": "Commercial development under way with an excavator on site",
+    "ar": "card"
+  },
+  "svc-renovation": {
+    "id": 5691533,
+    "w": "md",
+    "alt": "Interior stripped back during renovation works",
+    "ar": "card"
+  },
+  "svc-piling": {
+    "id": 37733179,
+    "w": "md",
+    "alt": "Workers checking a rebar grid before the pour",
+    "ar": "card"
+  },
+  "svc-roofing": {
+    "id": 37623626,
+    "w": "md",
+    "alt": "Roofer in a safety helmet bedding a roof tile",
+    "ar": "card"
+  },
+  "about-bw": {
+    "id": 36282751,
+    "w": "lg",
+    "alt": "Workers laying reinforcement across a slab",
+    "ar": "wide"
+  },
+  "about-team": {
+    "id": 9491942,
+    "w": "md",
+    "alt": "Two site workers on a brickwork job",
+    "ar": "card"
+  },
+  "about-crane": {
+    "id": 4206686,
+    "w": "lg",
+    "alt": "Tower crane against a clear tropical sky",
+    "ar": "wide"
+  },
+  "why-main": {
+    "id": 34315748,
+    "w": "lg",
+    "alt": "Rope-access crew working on a high-rise facade in Kuala Lumpur",
+    "ar": "wide"
+  },
+  "why-worker": {
+    "id": 28196491,
+    "w": "md",
+    "alt": "Site supervisor recording readings on a clipboard",
+    "ar": "card"
+  },
+  "why-texture": {
+    "id": 2455119,
+    "w": "md",
+    "alt": "Fair-faced concrete surface",
+    "ar": "card"
+  },
+  "process-1": {
+    "id": 3760788,
+    "w": "lg",
+    "alt": "Engineer going through drawings at a desk",
+    "ar": "wide"
+  },
+  "process-2": {
+    "id": 32913796,
+    "w": "lg",
+    "alt": "Worker measuring brickwork on site",
+    "ar": "wide"
+  },
+  "process-3": {
+    "id": 15947456,
+    "w": "lg",
+    "alt": "Three workers in helmets working together on site",
+    "ar": "wide"
+  },
+  "process-4": {
+    "id": 28196491,
+    "w": "lg",
+    "alt": "Supervisor completing a final inspection checklist",
+    "ar": "wide"
+  },
+  "proj-1-before": {
+    "id": 9026154,
+    "w": "lg",
+    "alt": "Aerial view of concrete foundations across a housing site",
+    "ar": "pair"
+  },
+  "proj-1-after": {
+    "id": 31420767,
+    "w": "lg",
+    "alt": "Aerial view of completed terrace homes in Kuala Lumpur",
+    "ar": "pair"
+  },
+  "proj-2-before": {
+    "id": 15798786,
+    "w": "lg",
+    "alt": "Bare shop unit with ladders before fit-out",
+    "ar": "pair"
+  },
+  "proj-2-after": {
+    "id": 13068373,
+    "w": "lg",
+    "alt": "Completed retail interior behind a glass shopfront",
+    "ar": "pair"
+  },
+  "proj-3-before": {
+    "id": 19399763,
+    "w": "lg",
+    "alt": "Row of tired shophouses before restoration",
+    "ar": "pair"
+  },
+  "proj-3-after": {
+    "id": 38807101,
+    "w": "lg",
+    "alt": "Restored shophouse row with repainted facades",
+    "ar": "pair"
+  },
+  "proj-4-before": {
+    "id": 3616756,
+    "w": "lg",
+    "alt": "Stripped room ready for extension works",
+    "ar": "pair"
+  },
+  "proj-4-after": {
+    "id": 8146336,
+    "w": "lg",
+    "alt": "Completed room with new flooring and glazing",
+    "ar": "pair"
+  },
+  "av-1": {
+    "id": 18580303,
+    "w": "av",
+    "alt": "Portrait of a smiling customer",
+    "ar": "square"
+  },
+  "av-2": {
+    "id": 24350758,
+    "w": "av",
+    "alt": "Portrait of a smiling customer",
+    "ar": "square"
+  },
+  "av-3": {
+    "id": 12390582,
+    "w": "av",
+    "alt": "Portrait of a smiling customer",
+    "ar": "square"
+  },
+  "av-4": {
+    "id": 36212654,
+    "w": "av",
+    "alt": "Portrait of a smiling customer",
+    "ar": "square"
+  },
+  "av-5": {
+    "id": 11527808,
+    "w": "av",
+    "alt": "Portrait of a smiling customer",
+    "ar": "square"
+  },
+  "av-6": {
+    "id": 17248602,
+    "w": "av",
+    "alt": "Portrait of a smiling customer",
+    "ar": "square"
+  },
+  "team-1": {
+    "id": 8278927,
+    "w": "md",
+    "alt": "Project director at his desk",
+    "ar": "card"
+  },
+  "team-2": {
+    "id": 9399868,
+    "w": "md",
+    "alt": "Site engineer holding drawings",
+    "ar": "card"
+  },
+  "team-3": {
+    "id": 12907250,
+    "w": "md",
+    "alt": "Safety officer in high-visibility clothing on site",
+    "ar": "card"
+  },
+  "team-4": {
+    "id": 8278933,
+    "w": "md",
+    "alt": "Two engineers reviewing a programme together",
+    "ar": "card"
+  },
+  "blog-1": {
+    "id": 18194391,
+    "w": "md",
+    "alt": "Shoplot facades in old Kuala Lumpur",
+    "ar": "card"
+  },
+  "blog-2": {
+    "id": 39151690,
+    "w": "md",
+    "alt": "House extension under construction",
+    "ar": "card"
+  },
+  "blog-3": {
+    "id": 36884223,
+    "w": "md",
+    "alt": "Roofer working on a damaged roof",
+    "ar": "card"
+  },
+  "blog-4": {
+    "id": 11386889,
+    "w": "md",
+    "alt": "Storm clouds building over Subang Jaya",
+    "ar": "card"
+  },
+  "blog-5": {
+    "id": 19404868,
+    "w": "md",
+    "alt": "Interior of a shopping mall concourse",
+    "ar": "card"
+  },
+  "blog-6": {
+    "id": 26107203,
+    "w": "md",
+    "alt": "Concrete being poured into formwork",
+    "ar": "card"
+  },
+  "blog-7": {
+    "id": 9026154,
+    "w": "md",
+    "alt": "Site drainage and foundations from above",
+    "ar": "card"
+  },
+  "blog-8": {
+    "id": 38520003,
+    "w": "md",
+    "alt": "Corroding reinforcement bar at a crack",
+    "ar": "card"
+  },
+  "cta-home": {
+    "id": 13066243,
+    "w": "xl",
+    "alt": "Kuala Lumpur skyline at dusk",
+    "ar": "wide"
+  },
+  "loc-kuala-lumpur": {
+    "id": 27155589,
+    "w": "lg",
+    "alt": "Residential street in Kuala Lumpur",
+    "ar": "wide"
+  },
+  "loc-petaling-jaya": {
+    "id": 11386889,
+    "w": "lg",
+    "alt": "Aerial view over Petaling Jaya",
+    "ar": "wide"
+  },
+  "loc-shah-alam": {
+    "id": 31420767,
+    "w": "lg",
+    "alt": "Terrace housing seen from above",
+    "ar": "wide"
+  },
+  "loc-subang-jaya": {
+    "id": 24778231,
+    "w": "lg",
+    "alt": "High-rise housing blocks",
+    "ar": "wide"
+  },
+  "loc-klang": {
+    "id": 17317773,
+    "w": "lg",
+    "alt": "Heritage shophouses on a town street",
+    "ar": "wide"
+  },
+  "page-services": {
+    "id": 11581108,
+    "w": "xl",
+    "alt": "Workers setting out steel reinforcement",
+    "ar": "wide"
+  },
+  "page-projects": {
+    "id": 3724018,
+    "w": "xl",
+    "alt": "Aerial view of a tower under construction",
+    "ar": "wide"
+  },
+  "page-locations": {
+    "id": 13066243,
+    "w": "xl",
+    "alt": "Kuala Lumpur skyline at dusk",
+    "ar": "wide"
+  },
+  "page-blog": {
+    "id": 18194391,
+    "w": "xl",
+    "alt": "Shoplot facades in old Kuala Lumpur",
+    "ar": "wide"
+  },
+  "page-about": {
+    "id": 34315748,
+    "w": "xl",
+    "alt": "Rope-access crew on a Kuala Lumpur high-rise",
+    "ar": "wide"
+  },
+  "page-contact": {
+    "id": 27118627,
+    "w": "xl",
+    "alt": "Kuala Lumpur office towers",
+    "ar": "wide"
+  },
+  "svc-body-1": {
+    "id": 11580364,
+    "w": "lg",
+    "alt": "Steel reinforcement being fixed on site",
+    "ar": "wide"
+  },
+  "svc-body-2": {
+    "id": 4756489,
+    "w": "lg",
+    "alt": "Interior opened up during renovation",
+    "ar": "wide"
+  },
+  "svc-body-3": {
+    "id": 33944130,
+    "w": "lg",
+    "alt": "Workers laying roof tiles",
+    "ar": "wide"
+  },
+  "svc-body-4": {
+    "id": 36532625,
+    "w": "lg",
+    "alt": "Concrete and starter bars at a foundation",
+    "ar": "wide"
+  },
+  "svc-body-5": {
+    "id": 31318445,
+    "w": "lg",
+    "alt": "Fitted-out retail unit",
+    "ar": "wide"
+  },
+  "svc-body-6": {
+    "id": 37704245,
+    "w": "lg",
+    "alt": "Roofer working on a residential roof",
+    "ar": "wide"
+  }
+}

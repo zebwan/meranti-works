@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+._*
+
+# Teardown of the source Framer template: 30 of its server-rendered pages, its
+# 63 compiled JS modules and its CSS, ~29 MB. It is someone else's commercial
+# template, it is not part of this deliverable, and it stays on the machine
+# that did the analysis rather than being redistributed in a repo.
+_research/
+
+# Local dev-server mirror
+/tmp/
+*.log
